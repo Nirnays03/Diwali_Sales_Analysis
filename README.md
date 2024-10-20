@@ -1,2 +1,2 @@
 # Diwali_Sales_Analysis
-python project for data analysis
+Exploratory data anlysis using python for analysing diwali sales
