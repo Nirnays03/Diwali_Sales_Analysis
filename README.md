@@ -81,6 +81,6 @@ If I had more time, I’d love to:
 
 I’m just starting out in data analytics and love working on practical, hands-on projects like this. Feel free to connect if you have feedback or suggestions!
 
-📫 [Your LinkedIn]  
+📫 <a href="https://www.linkedin.com/in/nirnaysingh/">Linkedin</a>
 
 Thanks for checking out the project! 🙏
