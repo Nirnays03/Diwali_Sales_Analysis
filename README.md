@@ -55,7 +55,7 @@ I visualized some of the findings below ⬇️
 
 
 
-## Top Cities by Sales
+## Top states by Sales
 
 ![Top States]
 
@@ -66,7 +66,7 @@ I visualized some of the findings below ⬇️
 # Key Insights
 
 - Women aged 26–35 spent the most during Diwali
-- states like uttarpradesh, maharashtra and bihar saw the highest sales
+- states like uttarpradesh, maharashtra and Karnataka saw the highest sales
 - Categories like Clothing and Food were the top performers
 
 These insights could help businesses target the right audience during the festive season.
