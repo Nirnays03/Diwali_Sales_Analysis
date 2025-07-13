@@ -43,7 +43,9 @@ I visualized some of the findings below ⬇️
 
 ## Spending by Gender
 
-![Gender vs Amount](charts/gender_vs_amount.png)
+![Gender vs Amount]
+
+<img width="554" height="448" alt="image" src="https://github.com/user-attachments/assets/67e07cc8-48ec-4a2b-b428-dcba5f71e76c" />
 
 ## Age Group Trends
 
