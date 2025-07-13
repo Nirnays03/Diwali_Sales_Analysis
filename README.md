@@ -15,7 +15,7 @@ The idea was to analyze Diwali shopping data and see what kind of patterns or tr
 The data came from a Diwali sales dataset that includes customer details like:
 - Gender
 - Age group
-- City tier
+- state tier
 - Product category
 - Amount spent
 
@@ -37,7 +37,7 @@ I tried answering questions like:
 - Who spends more: men or women?
 - Which age group buys the most during Diwali?
 - What products are most popular?
-- Which cities have the highest sales?
+- Which states have the highest sales?
 
 I visualized some of the findings below ⬇️
 
@@ -50,19 +50,23 @@ I visualized some of the findings below ⬇️
 ## Age Group Trends
 
 ![Age vs Amount]
+
 <img width="567" height="448" alt="image" src="https://github.com/user-attachments/assets/dbf9895a-ce50-475c-a004-8e4ccc967c12" />
+
 
 
 ## Top Cities by Sales
 
-![Top Cities](charts/top_cities_sales.png)
+![Top States]
+
+<img width="1246" height="467" alt="image" src="https://github.com/user-attachments/assets/a6bf3e83-808e-452d-ac3d-5d155498d703" />
 
 
 
 # Key Insights
 
 - Women aged 26–35 spent the most during Diwali
-- Cities like Delhi, Mumbai, and Bangalore saw the highest sales
+- states like uttarpradesh, maharashtra and bihar saw the highest sales
 - Categories like Clothing and Food were the top performers
 
 These insights could help businesses target the right audience during the festive season.
