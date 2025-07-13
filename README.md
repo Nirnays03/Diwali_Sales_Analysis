@@ -1,16 +1,16 @@
-# 🛍️ Diwali Sales Analysis
+#  Diwali Sales Analysis
 
-Hi there! 👋 This is a project I worked on to improve my skills in data analysis using Python. I came across a guided tutorial on YouTube, and instead of just following along, I tried to understand everything deeply and add my own insights along the way.
+Hi there!  This is a project I worked on to improve my skills in data analysis using Python. I came across a guided tutorial on YouTube, and instead of just following along, I tried to understand everything deeply and add my own insights along the way.
 
 The idea was to analyze Diwali shopping data and see what kind of patterns or trends we could find — especially things that might help a business improve their festive season sales.
 
-## 🧰 Tools I Used
+# Tools I Used
 
 - **Python** (Jupyter Notebook)
 - **Pandas** for data cleaning and exploration
 - **Matplotlib & Seaborn** for creating charts
 
-## 📂 Dataset
+# Dataset
 
 The data came from a Diwali sales dataset that includes customer details like:
 - Gender
@@ -22,7 +22,7 @@ The data came from a Diwali sales dataset that includes customer details like:
 It seemed like a good choice to practice real-world business analysis.
 
 
-## 🧼 Data Cleaning Steps
+# Data Cleaning Steps
 
 - Removed empty values (`NaN`)
 - Dropped a few irrelevant columns (like `Status`, `Unnamed: 10`)
@@ -30,7 +30,7 @@ It seemed like a good choice to practice real-world business analysis.
 - Cleaned up column names to make them easier to work with
 
 
-## 📈 What I Explored
+# What I Explored
 
 I tried answering questions like:
 
@@ -41,21 +41,21 @@ I tried answering questions like:
 
 I visualized some of the findings below ⬇️
 
-### 💸 Spending by Gender
+## Spending by Gender
 
 ![Gender vs Amount](charts/gender_vs_amount.png)
 
-### 🧑‍🤝‍🧑 Age Group Trends
+## Age Group Trends
 
 ![Age vs Amount](charts/age_vs_amount.png)
 
-### 🏙️ Top Cities by Sales
+## Top Cities by Sales
 
 ![Top Cities](charts/top_cities_sales.png)
 
 
 
-## 🔍 Key Insights
+# Key Insights
 
 - Women aged 26–35 spent the most during Diwali
 - Cities like Delhi, Mumbai, and Bangalore saw the highest sales
@@ -63,13 +63,13 @@ I visualized some of the findings below ⬇️
 
 These insights could help businesses target the right audience during the festive season.
 
-## 📌 What I Learned
+# What I Learned
 
 - Got more confident using Pandas and Seaborn
 - Realized how small data cleaning issues can affect the whole analysis
 - Learned to ask the right business questions, not just play with code
 
-## 🚀 Next Steps
+# Next Steps
 
 If I had more time, I’d love to:
 - Create a Power BI or Tableau dashboard from this
@@ -77,7 +77,7 @@ If I had more time, I’d love to:
 - Maybe turn this into a little report or blog post
 
 
-## 👨‍💻 About Me
+# About Me
 
 I’m just starting out in data analytics and love working on practical, hands-on projects like this. Feel free to connect if you have feedback or suggestions!
 
