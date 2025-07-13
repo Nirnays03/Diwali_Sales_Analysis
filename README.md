@@ -49,7 +49,9 @@ I visualized some of the findings below ⬇️
 
 ## Age Group Trends
 
-![Age vs Amount](charts/age_vs_amount.png)
+![Age vs Amount]
+<img width="567" height="448" alt="image" src="https://github.com/user-attachments/assets/dbf9895a-ce50-475c-a004-8e4ccc967c12" />
+
 
 ## Top Cities by Sales
 
