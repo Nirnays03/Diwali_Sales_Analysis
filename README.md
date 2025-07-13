@@ -15,7 +15,7 @@ The idea was to analyze Diwali shopping data and see what kind of patterns or tr
 The data came from a Diwali sales dataset that includes customer details like:
 - Gender
 - Age group
-- state tier
+- State tier
 - Product category
 - Amount spent
 
@@ -66,7 +66,7 @@ I visualized some of the findings below ⬇️
 # Key Insights
 
 - Women aged 26–35 spent the most during Diwali
-- states like uttarpradesh, maharashtra and Karnataka saw the highest sales
+- states like Uttarpradesh, Maharashtra and Karnataka saw the highest sales
 - Categories like Clothing and Food were the top performers
 
 These insights could help businesses target the right audience during the festive season.
